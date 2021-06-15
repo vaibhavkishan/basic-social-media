@@ -1,0 +1,4 @@
+{
+    "apiPostsEndpoint":"http://jsonplaceholder.typicode.com/posts",
+    "apiUserEndpoint":"http://jsonplaceholder.typicode.com/users"
+}
